@@ -1,0 +1,17 @@
+current directory: /home/max/moringa course work/RUBY/phase-3-sinatra-react-project-2/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+/usr/bin/ruby3.0 -I /usr/lib/ruby/vendor_ruby -r ./siteconf20230608-4122-oln8di.rb extconf.rb
+checking for main() in -lc... yes
+creating Makefile
+
+current directory: /home/max/moringa course work/RUBY/phase-3-sinatra-react-project-2/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= clean
+
+current directory: /home/max/moringa course work/RUBY/phase-3-sinatra-react-project-2/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\=
+compiling parser.c
+compiling thin.c
+linking shared-object thin_parser.so
+
+current directory: /home/max/moringa course work/RUBY/phase-3-sinatra-react-project-2/vendor/bundle/ruby/3.0.0/gems/thin-1.8.1/ext/thin_parser
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 thin_parser.so ./.gem.20230608-4122-d9umjc
